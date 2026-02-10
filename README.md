@@ -1,4 +1,4 @@
-# Global Earthquake Trends & Interactive Mapping (USGS, 1990–2023) 
+# Global Earthquake Trends & Interactive Mapping (1990–2023) 
 
 This notebook analyzes global earthquake records (1990–2023), above 4.0 Rh in magnitude, with a focus on temporal patterns (yearly and monthly summaries) and interactive geospatial visualizations.
 It shows an end‑to‑end workflow for spatial–temporal analysis: I take raw earthquake records, clean and standardize them, engineer time features (year/month), run time‑series summaries (counts, maxima, categories), and then communicate patterns through maps and interactive animations.
