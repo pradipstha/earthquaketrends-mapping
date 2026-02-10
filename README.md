@@ -1,0 +1,1 @@
+# earthquaketrends-mapping
